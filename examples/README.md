@@ -13,3 +13,5 @@ This shows the main difficulty with numerical work -- finite precision!
 An example showing that all mathematically equivalent algorithms do not behave the same way numerically.
 - **Animated_Root_Finding.ipynb**:
 Animated examples of (simple) implemenations of some root finding algorithms. Requires ipywidgets to run.
+- **Root_Finding.ipynb**:
+An example showing the use of routines from `scipy.optimize` for one dimensional root finding.
