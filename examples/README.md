@@ -17,3 +17,5 @@ Animated examples of (simple) implemenations of some root finding algorithms. Re
 An example showing the use of routines from `scipy.optimize` for one dimensional root finding.
 - **Interpolation.ipynb**:
 An example showing the use of routines from `scipy.interpolate` for one dimensional interpolation.
+- **Numerical_Derivatives.ipynb**:
+An examples describing Richardson extrapolation as applied to center differencing and some examples of its use.
