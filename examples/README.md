@@ -21,3 +21,5 @@ An example showing the use of routines from `scipy.interpolate` for one dimensio
 An examples describing Richardson extrapolation as applied to center differencing and some examples of its use.
 - **Numerical_Integration.ipynb**:
 An example using numerical integration to show in a simple model why incandescent light bulbs have been relegated to the dustbin of history.
+- **ODE.ipynb**:
+Revisiting the simple pendulum, now as an ODE solved using `scipy.integrate.solve_ivp` and some issues related to its use.
