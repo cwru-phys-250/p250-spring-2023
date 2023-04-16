@@ -31,3 +31,5 @@ An introduction to linear algebra but with a focus more on how we represent vect
 An introduction to solving systems of linear equations using functions from scipy.
 - **Eigenvalues.ipynb**:
 Eigenvalue problem are prevalent in many branches of physics. In classical mechanics they aid in finding the principle axes of rotating bodies and in finding the normal modes of oscillating systems. In quantum mechanics the time independent Schrödinger equation **is** an eigenvalue problem! Here we get a little practice using functions from `scipy.linalg` for solving these types of problems.
+- **Curve_Fitting.ipynb**:
+Parameter estimation from the least squares fitting of data to a model is a standard way in which theories are compared to experiments. Here we study some of the basics of using the chi squared for such a purpose.
